@@ -1,0 +1,7 @@
+{
+  "parserClassName":"org.apache.metron.parsers.fw.BasicFwParser",
+  "sensorTopic":"squid",
+  "parserConfig": {
+  }
+
+}
